@@ -84,8 +84,8 @@ export default function AboutPage({ onPageChange }: AboutPageProps) {
                 empresarial e governança corporativa.
               </p>
               <div className="flex flex-wrap gap-4">
-                <div className="bg-yellow-400 text-black px-4 py-2 rounded-lg font-semibold">
-                  12+ Anos de Experiência
+                <div className="bg-gray-800 text-white px-4 py-2 rounded-lg font-semibold">
+                  Mais de 25 anos de experiência
                 </div>
                 <div className="bg-gray-800 text-white px-4 py-2 rounded-lg">
                   150+ Empresas Transformadas
